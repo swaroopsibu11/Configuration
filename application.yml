@@ -1,0 +1,6 @@
+app:
+  name: configserver
+db:
+  connection:connection-string
+  host:198.27.0.1
+  port:9090
